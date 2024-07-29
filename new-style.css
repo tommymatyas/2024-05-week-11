@@ -1,0 +1,9 @@
+body #root .characters {
+  max-width: 800px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+body #root .characters .card {
+  border: 1px solid black;
+}/*# sourceMappingURL=new-style.css.map */

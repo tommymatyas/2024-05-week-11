@@ -1,0 +1,15 @@
+body {
+  #root {
+    .characters {
+      max-width: 800px;
+
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+
+      .card {
+        border: 1px solid black;
+      }
+    }
+  }
+}
